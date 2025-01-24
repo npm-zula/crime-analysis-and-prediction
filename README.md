@@ -72,14 +72,13 @@ Crime Predictor aims to transform public safety management from a reactive to a 
 ## 🚀 Getting Started
 
 1. Clone the repository
-2. 
-3. Install dependencies
+2. Install dependencies
 \`\`\`bash
 cd crime-predictor
 npm install
 \`\`\`
 
-4. Start the development server
+3. Start the development server
 \`\`\`bash
 npm run dev
 \`\`\`
