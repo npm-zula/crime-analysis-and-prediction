@@ -1,9 +1,5 @@
 # 🔍 Crime Predictor: AI-Powered Crime Analytics Platform
 
-![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
-![Tech Stack](https://img.shields.io/badge/tech-React%20%7C%20AI%20%7C%20ML-brightgreen.svg)
-![Status](https://img.shields.io/badge/status-revolutionary-orange.svg)
-
 ## 🌟 Overview
 
 Crime Predictor is a groundbreaking, state-of-the-art platform that revolutionizes law enforcement and public safety through cutting-edge AI and machine learning technologies. This isn't just another crime mapping tool – it's a comprehensive prediction and analysis system that's changing the game in urban safety management.
@@ -76,37 +72,17 @@ Crime Predictor aims to transform public safety management from a reactive to a 
 ## 🚀 Getting Started
 
 1. Clone the repository
-\`\`\`bash
-git clone https://github.com/yourusername/crime-predictor.git
-\`\`\`
-
-2. Install dependencies
+2. 
+3. Install dependencies
 \`\`\`bash
 cd crime-predictor
 npm install
 \`\`\`
 
-3. Start the development server
+4. Start the development server
 \`\`\`bash
 npm run dev
 \`\`\`
 
-## 🌟 What Makes Us Different
-
-- **Revolutionary Approach**: Not just mapping crimes, but preventing them
-- **AI-First Design**: Built from the ground up with AI integration in mind
-- **Scalable Architecture**: Ready for city-wide or national deployment
-- **User-Centric Interface**: Beautiful, intuitive, and powerful
-- **Future-Ready**: Prepared for integration with emerging technologies
-
-## 🤝 Contributing
-
-We believe in the power of community. Join us in revolutionizing public safety! Whether you're a developer, data scientist, or law enforcement professional, your contribution can help make our communities safer.
-
-## 📜 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
----
 
 *Crime Predictor: Transforming public safety through the power of AI and data analytics.*
